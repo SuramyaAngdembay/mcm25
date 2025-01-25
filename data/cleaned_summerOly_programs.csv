@@ -1,47 +1,1411 @@
-Sport,1896,1900,1904,1908,1912,1920,1924,1928,1932,1936,1948,1952,1956,1960,1964,1968,1972,1976,1980,1984,1988,1992,1996,2000,2004,2008,2012,2016,2020,2024
-Aquatics,4,8,12,9,14,16,17,16,16,16,16,16,18,20,23,34,34,31,31,36,38,38,38,44,44,46,46,46,49,49
-Archery,0,7,6,3,0,10,0,0,0,0,0,0,0,0,0,0,2,2,2,2,4,4,4,4,4,4,4,4,5,5
-Athletics,12,23,25,26,30,29,27,27,29,29,33,33,33,34,36,36,38,37,38,41,42,43,44,46,46,47,47,47,48,48
-Badminton,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,5,5,5,5,5,5,5
-Baseball-Softball,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,2,0,0,2,0
-Basketball,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,4,4
-Basque Pelota,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Boxing,0,0,7,5,0,8,8,8,8,8,8,10,10,10,10,11,11,11,11,12,12,12,12,12,11,11,13,13,13,13
-Breaking,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
-Canoeing,0,0,0,0,0,0,0,0,0,9,9,9,9,7,7,7,11,11,11,12,12,16,16,16,16,16,16,16,16,16
-Cricket,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Croquet,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cycling,6,3,7,7,2,6,6,6,6,6,6,6,6,6,7,7,7,6,6,8,9,10,14,18,18,18,18,18,22,22
-Equestrian,0,5,0,0,5,7,5,6,6,6,6,6,6,5,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
-Fencing,3,7,5,4,5,6,7,7,7,7,7,7,7,8,8,8,8,8,8,8,8,8,10,10,10,10,10,10,12,12
-Field hockey,0,0,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2
-Flag football,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Football,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2
-Golf,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2
-Gymnastics,8,1,11,2,4,4,9,8,11,9,9,15,15,14,14,14,14,14,14,15,15,15,16,18,18,18,18,18,18,18
-Handball,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2,2,2,2
-Jeu de Paume,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Judo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,6,6,8,8,7,14,14,14,14,14,14,14,15,15
-Karate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0
-Lacrosse,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Modern Pentathlon,0,0,0,0,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2
-Polo,0,1,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rackets,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Roque,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rowing,0,5,5,4,4,5,7,7,7,7,7,7,7,7,7,7,7,14,14,14,14,14,14,14,14,14,14,14,14,14
-Rugby,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2
-Sailing,0,13,0,4,4,14,3,3,4,4,5,5,5,5,5,5,6,6,6,7,8,10,10,11,11,11,10,10,10,10
-Shooting,5,8,0,15,18,21,10,0,2,3,4,7,7,6,6,7,8,7,7,11,13,13,15,17,17,15,15,15,15,15
-Skateboarding,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
-Sport Climbing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4
-Squash,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Surfing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
-Table Tennis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,4,4,4,4,4,4,5,5
-Taekwondo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,8,8,8,8,8
-Tennis,2,4,2,6,8,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,4,4,4,4,5,5,5,5
-Triathlon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,2,3,3
-Tug of War,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Volleyball,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,2,2,4,4,4,4,4,4,4,4
-Water Motorsports,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Weightlifting,2,2,2,0,0,5,5,5,5,5,6,7,7,7,7,7,9,9,10,10,10,10,10,15,15,15,15,15,14,10
-Wrestling,1,0,7,9,5,10,13,13,14,14,16,16,16,16,16,16,20,20,20,20,20,20,20,16,18,18,18,18,18,18
+Year,Sport,num_games
+1896,Aquatics,4
+1896,Archery,0
+1896,Athletics,12
+1896,Badminton,0
+1896,Baseball,0
+1896,Basketball,0
+1896,Basque Pelota,0
+1896,Boxing,0
+1896,Breaking,0
+1896,Canoeing,0
+1896,Cricket,0
+1896,Croquet,0
+1896,Cycling,6
+1896,Equestrian,0
+1896,Fencing,3
+1896,Field hockey,0
+1896,Flag football,0
+1896,Football,0
+1896,Golf,0
+1896,Gymnastics,8
+1896,Handball,0
+1896,Jeu de Paume,0
+1896,Judo,0
+1896,Karate,0
+1896,Lacrosse,0
+1896,Modern Pentathlon,0
+1896,Polo,0
+1896,Rackets,0
+1896,Roque,0
+1896,Rowing,0
+1896,Rugby,0
+1896,Sailing,0
+1896,Shooting,5
+1896,Skateboarding,0
+1896,Softball,0
+1896,Sport Climbing,0
+1896,Squash,0
+1896,Surfing,0
+1896,Table Tennis,0
+1896,Taekwondo,0
+1896,Tennis,2
+1896,Triathlon,0
+1896,Tug of War,0
+1896,Volleyball,0
+1896,Water Motorsports,0
+1896,Weightlifting,2
+1896,Wrestling,1
+1900,Aquatics,8
+1900,Archery,7
+1900,Athletics,23
+1900,Badminton,0
+1900,Baseball,0
+1900,Basketball,0
+1900,Basque Pelota,1
+1900,Boxing,0
+1900,Breaking,0
+1900,Canoeing,0
+1900,Cricket,1
+1900,Croquet,3
+1900,Cycling,3
+1900,Equestrian,5
+1900,Fencing,7
+1900,Field hockey,0
+1900,Flag football,0
+1900,Football,1
+1900,Golf,2
+1900,Gymnastics,1
+1900,Handball,0
+1900,Jeu de Paume,0
+1900,Judo,0
+1900,Karate,0
+1900,Lacrosse,0
+1900,Modern Pentathlon,0
+1900,Polo,1
+1900,Rackets,0
+1900,Roque,0
+1900,Rowing,5
+1900,Rugby,1
+1900,Sailing,13
+1900,Shooting,8
+1900,Skateboarding,0
+1900,Softball,0
+1900,Sport Climbing,0
+1900,Squash,0
+1900,Surfing,0
+1900,Table Tennis,0
+1900,Taekwondo,0
+1900,Tennis,4
+1900,Triathlon,0
+1900,Tug of War,1
+1900,Volleyball,0
+1900,Water Motorsports,0
+1900,Weightlifting,2
+1900,Wrestling,0
+1904,Aquatics,12
+1904,Archery,6
+1904,Athletics,25
+1904,Badminton,0
+1904,Baseball,0
+1904,Basketball,0
+1904,Basque Pelota,0
+1904,Boxing,7
+1904,Breaking,0
+1904,Canoeing,0
+1904,Cricket,0
+1904,Croquet,0
+1904,Cycling,7
+1904,Equestrian,0
+1904,Fencing,5
+1904,Field hockey,0
+1904,Flag football,0
+1904,Football,1
+1904,Golf,2
+1904,Gymnastics,11
+1904,Handball,0
+1904,Jeu de Paume,0
+1904,Judo,0
+1904,Karate,0
+1904,Lacrosse,1
+1904,Modern Pentathlon,0
+1904,Polo,0
+1904,Rackets,0
+1904,Roque,1
+1904,Rowing,5
+1904,Rugby,0
+1904,Sailing,0
+1904,Shooting,0
+1904,Skateboarding,0
+1904,Softball,0
+1904,Sport Climbing,0
+1904,Squash,0
+1904,Surfing,0
+1904,Table Tennis,0
+1904,Taekwondo,0
+1904,Tennis,2
+1904,Triathlon,0
+1904,Tug of War,1
+1904,Volleyball,0
+1904,Water Motorsports,0
+1904,Weightlifting,2
+1904,Wrestling,7
+1908,Aquatics,9
+1908,Archery,3
+1908,Athletics,26
+1908,Badminton,0
+1908,Baseball,0
+1908,Basketball,0
+1908,Basque Pelota,0
+1908,Boxing,5
+1908,Breaking,0
+1908,Canoeing,0
+1908,Cricket,0
+1908,Croquet,0
+1908,Cycling,7
+1908,Equestrian,0
+1908,Fencing,4
+1908,Field hockey,1
+1908,Flag football,0
+1908,Football,1
+1908,Golf,0
+1908,Gymnastics,2
+1908,Handball,0
+1908,Jeu de Paume,1
+1908,Judo,0
+1908,Karate,0
+1908,Lacrosse,1
+1908,Modern Pentathlon,0
+1908,Polo,1
+1908,Rackets,2
+1908,Roque,0
+1908,Rowing,4
+1908,Rugby,1
+1908,Sailing,4
+1908,Shooting,15
+1908,Skateboarding,0
+1908,Softball,0
+1908,Sport Climbing,0
+1908,Squash,0
+1908,Surfing,0
+1908,Table Tennis,0
+1908,Taekwondo,0
+1908,Tennis,6
+1908,Triathlon,0
+1908,Tug of War,1
+1908,Volleyball,0
+1908,Water Motorsports,3
+1908,Weightlifting,0
+1908,Wrestling,9
+1912,Aquatics,14
+1912,Archery,0
+1912,Athletics,30
+1912,Badminton,0
+1912,Baseball,0
+1912,Basketball,0
+1912,Basque Pelota,0
+1912,Boxing,0
+1912,Breaking,0
+1912,Canoeing,0
+1912,Cricket,0
+1912,Croquet,0
+1912,Cycling,2
+1912,Equestrian,5
+1912,Fencing,5
+1912,Field hockey,0
+1912,Flag football,0
+1912,Football,1
+1912,Golf,0
+1912,Gymnastics,4
+1912,Handball,0
+1912,Jeu de Paume,0
+1912,Judo,0
+1912,Karate,0
+1912,Lacrosse,0
+1912,Modern Pentathlon,1
+1912,Polo,0
+1912,Rackets,0
+1912,Roque,0
+1912,Rowing,4
+1912,Rugby,0
+1912,Sailing,4
+1912,Shooting,18
+1912,Skateboarding,0
+1912,Softball,0
+1912,Sport Climbing,0
+1912,Squash,0
+1912,Surfing,0
+1912,Table Tennis,0
+1912,Taekwondo,0
+1912,Tennis,8
+1912,Triathlon,0
+1912,Tug of War,1
+1912,Volleyball,0
+1912,Water Motorsports,0
+1912,Weightlifting,0
+1912,Wrestling,5
+1920,Aquatics,16
+1920,Archery,10
+1920,Athletics,29
+1920,Badminton,0
+1920,Baseball,0
+1920,Basketball,0
+1920,Basque Pelota,0
+1920,Boxing,8
+1920,Breaking,0
+1920,Canoeing,0
+1920,Cricket,0
+1920,Croquet,0
+1920,Cycling,6
+1920,Equestrian,7
+1920,Fencing,6
+1920,Field hockey,1
+1920,Flag football,0
+1920,Football,1
+1920,Golf,0
+1920,Gymnastics,4
+1920,Handball,0
+1920,Jeu de Paume,0
+1920,Judo,0
+1920,Karate,0
+1920,Lacrosse,0
+1920,Modern Pentathlon,1
+1920,Polo,1
+1920,Rackets,0
+1920,Roque,0
+1920,Rowing,5
+1920,Rugby,1
+1920,Sailing,14
+1920,Shooting,21
+1920,Skateboarding,0
+1920,Softball,0
+1920,Sport Climbing,0
+1920,Squash,0
+1920,Surfing,0
+1920,Table Tennis,0
+1920,Taekwondo,0
+1920,Tennis,5
+1920,Triathlon,0
+1920,Tug of War,1
+1920,Volleyball,0
+1920,Water Motorsports,0
+1920,Weightlifting,5
+1920,Wrestling,10
+1924,Aquatics,17
+1924,Archery,0
+1924,Athletics,27
+1924,Badminton,0
+1924,Baseball,0
+1924,Basketball,0
+1924,Basque Pelota,0
+1924,Boxing,8
+1924,Breaking,0
+1924,Canoeing,0
+1924,Cricket,0
+1924,Croquet,0
+1924,Cycling,6
+1924,Equestrian,5
+1924,Fencing,7
+1924,Field hockey,0
+1924,Flag football,0
+1924,Football,1
+1924,Golf,0
+1924,Gymnastics,9
+1924,Handball,0
+1924,Jeu de Paume,0
+1924,Judo,0
+1924,Karate,0
+1924,Lacrosse,0
+1924,Modern Pentathlon,1
+1924,Polo,1
+1924,Rackets,0
+1924,Roque,0
+1924,Rowing,7
+1924,Rugby,1
+1924,Sailing,3
+1924,Shooting,10
+1924,Skateboarding,0
+1924,Softball,0
+1924,Sport Climbing,0
+1924,Squash,0
+1924,Surfing,0
+1924,Table Tennis,0
+1924,Taekwondo,0
+1924,Tennis,5
+1924,Triathlon,0
+1924,Tug of War,0
+1924,Volleyball,0
+1924,Water Motorsports,0
+1924,Weightlifting,5
+1924,Wrestling,13
+1928,Aquatics,16
+1928,Archery,0
+1928,Athletics,27
+1928,Badminton,0
+1928,Baseball,0
+1928,Basketball,0
+1928,Basque Pelota,0
+1928,Boxing,8
+1928,Breaking,0
+1928,Canoeing,0
+1928,Cricket,0
+1928,Croquet,0
+1928,Cycling,6
+1928,Equestrian,6
+1928,Fencing,7
+1928,Field hockey,1
+1928,Flag football,0
+1928,Football,1
+1928,Golf,0
+1928,Gymnastics,8
+1928,Handball,0
+1928,Jeu de Paume,0
+1928,Judo,0
+1928,Karate,0
+1928,Lacrosse,0
+1928,Modern Pentathlon,1
+1928,Polo,0
+1928,Rackets,0
+1928,Roque,0
+1928,Rowing,7
+1928,Rugby,0
+1928,Sailing,3
+1928,Shooting,0
+1928,Skateboarding,0
+1928,Softball,0
+1928,Sport Climbing,0
+1928,Squash,0
+1928,Surfing,0
+1928,Table Tennis,0
+1928,Taekwondo,0
+1928,Tennis,0
+1928,Triathlon,0
+1928,Tug of War,0
+1928,Volleyball,0
+1928,Water Motorsports,0
+1928,Weightlifting,5
+1928,Wrestling,13
+1932,Aquatics,16
+1932,Archery,0
+1932,Athletics,29
+1932,Badminton,0
+1932,Baseball,0
+1932,Basketball,0
+1932,Basque Pelota,0
+1932,Boxing,8
+1932,Breaking,0
+1932,Canoeing,0
+1932,Cricket,0
+1932,Croquet,0
+1932,Cycling,6
+1932,Equestrian,6
+1932,Fencing,7
+1932,Field hockey,1
+1932,Flag football,0
+1932,Football,0
+1932,Golf,0
+1932,Gymnastics,11
+1932,Handball,0
+1932,Jeu de Paume,0
+1932,Judo,0
+1932,Karate,0
+1932,Lacrosse,0
+1932,Modern Pentathlon,1
+1932,Polo,0
+1932,Rackets,0
+1932,Roque,0
+1932,Rowing,7
+1932,Rugby,0
+1932,Sailing,4
+1932,Shooting,2
+1932,Skateboarding,0
+1932,Softball,0
+1932,Sport Climbing,0
+1932,Squash,0
+1932,Surfing,0
+1932,Table Tennis,0
+1932,Taekwondo,0
+1932,Tennis,0
+1932,Triathlon,0
+1932,Tug of War,0
+1932,Volleyball,0
+1932,Water Motorsports,0
+1932,Weightlifting,5
+1932,Wrestling,14
+1936,Aquatics,16
+1936,Archery,0
+1936,Athletics,29
+1936,Badminton,0
+1936,Baseball,0
+1936,Basketball,1
+1936,Basque Pelota,0
+1936,Boxing,8
+1936,Breaking,0
+1936,Canoeing,9
+1936,Cricket,0
+1936,Croquet,0
+1936,Cycling,6
+1936,Equestrian,6
+1936,Fencing,7
+1936,Field hockey,1
+1936,Flag football,0
+1936,Football,1
+1936,Golf,0
+1936,Gymnastics,9
+1936,Handball,1
+1936,Jeu de Paume,0
+1936,Judo,0
+1936,Karate,0
+1936,Lacrosse,0
+1936,Modern Pentathlon,1
+1936,Polo,1
+1936,Rackets,0
+1936,Roque,0
+1936,Rowing,7
+1936,Rugby,0
+1936,Sailing,4
+1936,Shooting,3
+1936,Skateboarding,0
+1936,Softball,0
+1936,Sport Climbing,0
+1936,Squash,0
+1936,Surfing,0
+1936,Table Tennis,0
+1936,Taekwondo,0
+1936,Tennis,0
+1936,Triathlon,0
+1936,Tug of War,0
+1936,Volleyball,0
+1936,Water Motorsports,0
+1936,Weightlifting,5
+1936,Wrestling,14
+1948,Aquatics,16
+1948,Archery,0
+1948,Athletics,33
+1948,Badminton,0
+1948,Baseball,0
+1948,Basketball,1
+1948,Basque Pelota,0
+1948,Boxing,8
+1948,Breaking,0
+1948,Canoeing,9
+1948,Cricket,0
+1948,Croquet,0
+1948,Cycling,6
+1948,Equestrian,6
+1948,Fencing,7
+1948,Field hockey,1
+1948,Flag football,0
+1948,Football,1
+1948,Golf,0
+1948,Gymnastics,9
+1948,Handball,0
+1948,Jeu de Paume,0
+1948,Judo,0
+1948,Karate,0
+1948,Lacrosse,0
+1948,Modern Pentathlon,1
+1948,Polo,0
+1948,Rackets,0
+1948,Roque,0
+1948,Rowing,7
+1948,Rugby,0
+1948,Sailing,5
+1948,Shooting,4
+1948,Skateboarding,0
+1948,Softball,0
+1948,Sport Climbing,0
+1948,Squash,0
+1948,Surfing,0
+1948,Table Tennis,0
+1948,Taekwondo,0
+1948,Tennis,0
+1948,Triathlon,0
+1948,Tug of War,0
+1948,Volleyball,0
+1948,Water Motorsports,0
+1948,Weightlifting,6
+1948,Wrestling,16
+1952,Aquatics,16
+1952,Archery,0
+1952,Athletics,33
+1952,Badminton,0
+1952,Baseball,0
+1952,Basketball,1
+1952,Basque Pelota,0
+1952,Boxing,10
+1952,Breaking,0
+1952,Canoeing,9
+1952,Cricket,0
+1952,Croquet,0
+1952,Cycling,6
+1952,Equestrian,6
+1952,Fencing,7
+1952,Field hockey,1
+1952,Flag football,0
+1952,Football,1
+1952,Golf,0
+1952,Gymnastics,15
+1952,Handball,0
+1952,Jeu de Paume,0
+1952,Judo,0
+1952,Karate,0
+1952,Lacrosse,0
+1952,Modern Pentathlon,2
+1952,Polo,0
+1952,Rackets,0
+1952,Roque,0
+1952,Rowing,7
+1952,Rugby,0
+1952,Sailing,5
+1952,Shooting,7
+1952,Skateboarding,0
+1952,Softball,0
+1952,Sport Climbing,0
+1952,Squash,0
+1952,Surfing,0
+1952,Table Tennis,0
+1952,Taekwondo,0
+1952,Tennis,0
+1952,Triathlon,0
+1952,Tug of War,0
+1952,Volleyball,0
+1952,Water Motorsports,0
+1952,Weightlifting,7
+1952,Wrestling,16
+1956,Aquatics,18
+1956,Archery,0
+1956,Athletics,33
+1956,Badminton,0
+1956,Baseball,0
+1956,Basketball,1
+1956,Basque Pelota,0
+1956,Boxing,10
+1956,Breaking,0
+1956,Canoeing,9
+1956,Cricket,0
+1956,Croquet,0
+1956,Cycling,6
+1956,Equestrian,6
+1956,Fencing,7
+1956,Field hockey,1
+1956,Flag football,0
+1956,Football,1
+1956,Golf,0
+1956,Gymnastics,15
+1956,Handball,0
+1956,Jeu de Paume,0
+1956,Judo,0
+1956,Karate,0
+1956,Lacrosse,0
+1956,Modern Pentathlon,2
+1956,Polo,0
+1956,Rackets,0
+1956,Roque,0
+1956,Rowing,7
+1956,Rugby,0
+1956,Sailing,5
+1956,Shooting,7
+1956,Skateboarding,0
+1956,Softball,0
+1956,Sport Climbing,0
+1956,Squash,0
+1956,Surfing,0
+1956,Table Tennis,0
+1956,Taekwondo,0
+1956,Tennis,0
+1956,Triathlon,0
+1956,Tug of War,0
+1956,Volleyball,0
+1956,Water Motorsports,0
+1956,Weightlifting,7
+1956,Wrestling,16
+1960,Aquatics,20
+1960,Archery,0
+1960,Athletics,34
+1960,Badminton,0
+1960,Baseball,0
+1960,Basketball,1
+1960,Basque Pelota,0
+1960,Boxing,10
+1960,Breaking,0
+1960,Canoeing,7
+1960,Cricket,0
+1960,Croquet,0
+1960,Cycling,6
+1960,Equestrian,5
+1960,Fencing,8
+1960,Field hockey,1
+1960,Flag football,0
+1960,Football,1
+1960,Golf,0
+1960,Gymnastics,14
+1960,Handball,0
+1960,Jeu de Paume,0
+1960,Judo,0
+1960,Karate,0
+1960,Lacrosse,0
+1960,Modern Pentathlon,2
+1960,Polo,0
+1960,Rackets,0
+1960,Roque,0
+1960,Rowing,7
+1960,Rugby,0
+1960,Sailing,5
+1960,Shooting,6
+1960,Skateboarding,0
+1960,Softball,0
+1960,Sport Climbing,0
+1960,Squash,0
+1960,Surfing,0
+1960,Table Tennis,0
+1960,Taekwondo,0
+1960,Tennis,0
+1960,Triathlon,0
+1960,Tug of War,0
+1960,Volleyball,0
+1960,Water Motorsports,0
+1960,Weightlifting,7
+1960,Wrestling,16
+1964,Aquatics,23
+1964,Archery,0
+1964,Athletics,36
+1964,Badminton,0
+1964,Baseball,0
+1964,Basketball,1
+1964,Basque Pelota,0
+1964,Boxing,10
+1964,Breaking,0
+1964,Canoeing,7
+1964,Cricket,0
+1964,Croquet,0
+1964,Cycling,7
+1964,Equestrian,6
+1964,Fencing,8
+1964,Field hockey,1
+1964,Flag football,0
+1964,Football,1
+1964,Golf,0
+1964,Gymnastics,14
+1964,Handball,0
+1964,Jeu de Paume,0
+1964,Judo,4
+1964,Karate,0
+1964,Lacrosse,0
+1964,Modern Pentathlon,2
+1964,Polo,0
+1964,Rackets,0
+1964,Roque,0
+1964,Rowing,7
+1964,Rugby,0
+1964,Sailing,5
+1964,Shooting,6
+1964,Skateboarding,0
+1964,Softball,0
+1964,Sport Climbing,0
+1964,Squash,0
+1964,Surfing,0
+1964,Table Tennis,0
+1964,Taekwondo,0
+1964,Tennis,0
+1964,Triathlon,0
+1964,Tug of War,0
+1964,Volleyball,2
+1964,Water Motorsports,0
+1964,Weightlifting,7
+1964,Wrestling,16
+1968,Aquatics,34
+1968,Archery,0
+1968,Athletics,36
+1968,Badminton,0
+1968,Baseball,0
+1968,Basketball,1
+1968,Basque Pelota,0
+1968,Boxing,11
+1968,Breaking,0
+1968,Canoeing,7
+1968,Cricket,0
+1968,Croquet,0
+1968,Cycling,7
+1968,Equestrian,6
+1968,Fencing,8
+1968,Field hockey,1
+1968,Flag football,0
+1968,Football,1
+1968,Golf,0
+1968,Gymnastics,14
+1968,Handball,0
+1968,Jeu de Paume,0
+1968,Judo,0
+1968,Karate,0
+1968,Lacrosse,0
+1968,Modern Pentathlon,2
+1968,Polo,0
+1968,Rackets,0
+1968,Roque,0
+1968,Rowing,7
+1968,Rugby,0
+1968,Sailing,5
+1968,Shooting,7
+1968,Skateboarding,0
+1968,Softball,0
+1968,Sport Climbing,0
+1968,Squash,0
+1968,Surfing,0
+1968,Table Tennis,0
+1968,Taekwondo,0
+1968,Tennis,0
+1968,Triathlon,0
+1968,Tug of War,0
+1968,Volleyball,2
+1968,Water Motorsports,0
+1968,Weightlifting,7
+1968,Wrestling,16
+1972,Aquatics,34
+1972,Archery,2
+1972,Athletics,38
+1972,Badminton,0
+1972,Baseball,0
+1972,Basketball,1
+1972,Basque Pelota,0
+1972,Boxing,11
+1972,Breaking,0
+1972,Canoeing,11
+1972,Cricket,0
+1972,Croquet,0
+1972,Cycling,7
+1972,Equestrian,6
+1972,Fencing,8
+1972,Field hockey,1
+1972,Flag football,0
+1972,Football,1
+1972,Golf,0
+1972,Gymnastics,14
+1972,Handball,1
+1972,Jeu de Paume,0
+1972,Judo,6
+1972,Karate,0
+1972,Lacrosse,0
+1972,Modern Pentathlon,2
+1972,Polo,0
+1972,Rackets,0
+1972,Roque,0
+1972,Rowing,7
+1972,Rugby,0
+1972,Sailing,6
+1972,Shooting,8
+1972,Skateboarding,0
+1972,Softball,0
+1972,Sport Climbing,0
+1972,Squash,0
+1972,Surfing,0
+1972,Table Tennis,0
+1972,Taekwondo,0
+1972,Tennis,0
+1972,Triathlon,0
+1972,Tug of War,0
+1972,Volleyball,2
+1972,Water Motorsports,0
+1972,Weightlifting,9
+1972,Wrestling,20
+1976,Aquatics,31
+1976,Archery,2
+1976,Athletics,37
+1976,Badminton,0
+1976,Baseball,0
+1976,Basketball,2
+1976,Basque Pelota,0
+1976,Boxing,11
+1976,Breaking,0
+1976,Canoeing,11
+1976,Cricket,0
+1976,Croquet,0
+1976,Cycling,6
+1976,Equestrian,6
+1976,Fencing,8
+1976,Field hockey,1
+1976,Flag football,0
+1976,Football,1
+1976,Golf,0
+1976,Gymnastics,14
+1976,Handball,2
+1976,Jeu de Paume,0
+1976,Judo,6
+1976,Karate,0
+1976,Lacrosse,0
+1976,Modern Pentathlon,2
+1976,Polo,0
+1976,Rackets,0
+1976,Roque,0
+1976,Rowing,14
+1976,Rugby,0
+1976,Sailing,6
+1976,Shooting,7
+1976,Skateboarding,0
+1976,Softball,0
+1976,Sport Climbing,0
+1976,Squash,0
+1976,Surfing,0
+1976,Table Tennis,0
+1976,Taekwondo,0
+1976,Tennis,0
+1976,Triathlon,0
+1976,Tug of War,0
+1976,Volleyball,2
+1976,Water Motorsports,0
+1976,Weightlifting,9
+1976,Wrestling,20
+1980,Aquatics,31
+1980,Archery,2
+1980,Athletics,38
+1980,Badminton,0
+1980,Baseball,0
+1980,Basketball,2
+1980,Basque Pelota,0
+1980,Boxing,11
+1980,Breaking,0
+1980,Canoeing,11
+1980,Cricket,0
+1980,Croquet,0
+1980,Cycling,6
+1980,Equestrian,6
+1980,Fencing,8
+1980,Field hockey,2
+1980,Flag football,0
+1980,Football,1
+1980,Golf,0
+1980,Gymnastics,14
+1980,Handball,2
+1980,Jeu de Paume,0
+1980,Judo,8
+1980,Karate,0
+1980,Lacrosse,0
+1980,Modern Pentathlon,2
+1980,Polo,0
+1980,Rackets,0
+1980,Roque,0
+1980,Rowing,14
+1980,Rugby,0
+1980,Sailing,6
+1980,Shooting,7
+1980,Skateboarding,0
+1980,Softball,0
+1980,Sport Climbing,0
+1980,Squash,0
+1980,Surfing,0
+1980,Table Tennis,0
+1980,Taekwondo,0
+1980,Tennis,0
+1980,Triathlon,0
+1980,Tug of War,0
+1980,Volleyball,2
+1980,Water Motorsports,0
+1980,Weightlifting,10
+1980,Wrestling,20
+1984,Aquatics,36
+1984,Archery,2
+1984,Athletics,41
+1984,Badminton,0
+1984,Baseball,0
+1984,Basketball,2
+1984,Basque Pelota,0
+1984,Boxing,12
+1984,Breaking,0
+1984,Canoeing,12
+1984,Cricket,0
+1984,Croquet,0
+1984,Cycling,8
+1984,Equestrian,6
+1984,Fencing,8
+1984,Field hockey,2
+1984,Flag football,0
+1984,Football,1
+1984,Golf,0
+1984,Gymnastics,15
+1984,Handball,2
+1984,Jeu de Paume,0
+1984,Judo,8
+1984,Karate,0
+1984,Lacrosse,0
+1984,Modern Pentathlon,2
+1984,Polo,0
+1984,Rackets,0
+1984,Roque,0
+1984,Rowing,14
+1984,Rugby,0
+1984,Sailing,7
+1984,Shooting,11
+1984,Skateboarding,0
+1984,Softball,0
+1984,Sport Climbing,0
+1984,Squash,0
+1984,Surfing,0
+1984,Table Tennis,0
+1984,Taekwondo,0
+1984,Tennis,0
+1984,Triathlon,0
+1984,Tug of War,0
+1984,Volleyball,2
+1984,Water Motorsports,0
+1984,Weightlifting,10
+1984,Wrestling,20
+1988,Aquatics,38
+1988,Archery,4
+1988,Athletics,42
+1988,Badminton,0
+1988,Baseball,0
+1988,Basketball,2
+1988,Basque Pelota,0
+1988,Boxing,12
+1988,Breaking,0
+1988,Canoeing,12
+1988,Cricket,0
+1988,Croquet,0
+1988,Cycling,9
+1988,Equestrian,6
+1988,Fencing,8
+1988,Field hockey,2
+1988,Flag football,0
+1988,Football,1
+1988,Golf,0
+1988,Gymnastics,15
+1988,Handball,2
+1988,Jeu de Paume,0
+1988,Judo,7
+1988,Karate,0
+1988,Lacrosse,0
+1988,Modern Pentathlon,2
+1988,Polo,0
+1988,Rackets,0
+1988,Roque,0
+1988,Rowing,14
+1988,Rugby,0
+1988,Sailing,8
+1988,Shooting,13
+1988,Skateboarding,0
+1988,Softball,0
+1988,Sport Climbing,0
+1988,Squash,0
+1988,Surfing,0
+1988,Table Tennis,4
+1988,Taekwondo,0
+1988,Tennis,4
+1988,Triathlon,0
+1988,Tug of War,0
+1988,Volleyball,2
+1988,Water Motorsports,0
+1988,Weightlifting,10
+1988,Wrestling,20
+1992,Aquatics,38
+1992,Archery,4
+1992,Athletics,43
+1992,Badminton,4
+1992,Baseball,1
+1992,Basketball,2
+1992,Basque Pelota,0
+1992,Boxing,12
+1992,Breaking,0
+1992,Canoeing,16
+1992,Cricket,0
+1992,Croquet,0
+1992,Cycling,10
+1992,Equestrian,6
+1992,Fencing,8
+1992,Field hockey,2
+1992,Flag football,0
+1992,Football,1
+1992,Golf,0
+1992,Gymnastics,15
+1992,Handball,2
+1992,Jeu de Paume,0
+1992,Judo,14
+1992,Karate,0
+1992,Lacrosse,0
+1992,Modern Pentathlon,2
+1992,Polo,0
+1992,Rackets,0
+1992,Roque,0
+1992,Rowing,14
+1992,Rugby,0
+1992,Sailing,10
+1992,Shooting,13
+1992,Skateboarding,0
+1992,Softball,0
+1992,Sport Climbing,0
+1992,Squash,0
+1992,Surfing,0
+1992,Table Tennis,4
+1992,Taekwondo,0
+1992,Tennis,4
+1992,Triathlon,0
+1992,Tug of War,0
+1992,Volleyball,2
+1992,Water Motorsports,0
+1992,Weightlifting,10
+1992,Wrestling,20
+1996,Aquatics,38
+1996,Archery,4
+1996,Athletics,44
+1996,Badminton,5
+1996,Baseball,1
+1996,Basketball,2
+1996,Basque Pelota,0
+1996,Boxing,12
+1996,Breaking,0
+1996,Canoeing,16
+1996,Cricket,0
+1996,Croquet,0
+1996,Cycling,14
+1996,Equestrian,6
+1996,Fencing,10
+1996,Field hockey,2
+1996,Flag football,0
+1996,Football,2
+1996,Golf,0
+1996,Gymnastics,16
+1996,Handball,2
+1996,Jeu de Paume,0
+1996,Judo,14
+1996,Karate,0
+1996,Lacrosse,0
+1996,Modern Pentathlon,1
+1996,Polo,0
+1996,Rackets,0
+1996,Roque,0
+1996,Rowing,14
+1996,Rugby,0
+1996,Sailing,10
+1996,Shooting,15
+1996,Skateboarding,0
+1996,Softball,1
+1996,Sport Climbing,0
+1996,Squash,0
+1996,Surfing,0
+1996,Table Tennis,4
+1996,Taekwondo,0
+1996,Tennis,4
+1996,Triathlon,0
+1996,Tug of War,0
+1996,Volleyball,4
+1996,Water Motorsports,0
+1996,Weightlifting,10
+1996,Wrestling,20
+2000,Aquatics,44
+2000,Archery,4
+2000,Athletics,46
+2000,Badminton,5
+2000,Baseball,1
+2000,Basketball,2
+2000,Basque Pelota,0
+2000,Boxing,12
+2000,Breaking,0
+2000,Canoeing,16
+2000,Cricket,0
+2000,Croquet,0
+2000,Cycling,18
+2000,Equestrian,6
+2000,Fencing,10
+2000,Field hockey,2
+2000,Flag football,0
+2000,Football,2
+2000,Golf,0
+2000,Gymnastics,18
+2000,Handball,2
+2000,Jeu de Paume,0
+2000,Judo,14
+2000,Karate,0
+2000,Lacrosse,0
+2000,Modern Pentathlon,2
+2000,Polo,0
+2000,Rackets,0
+2000,Roque,0
+2000,Rowing,14
+2000,Rugby,0
+2000,Sailing,11
+2000,Shooting,17
+2000,Skateboarding,0
+2000,Softball,1
+2000,Sport Climbing,0
+2000,Squash,0
+2000,Surfing,0
+2000,Table Tennis,4
+2000,Taekwondo,8
+2000,Tennis,4
+2000,Triathlon,2
+2000,Tug of War,0
+2000,Volleyball,4
+2000,Water Motorsports,0
+2000,Weightlifting,15
+2000,Wrestling,16
+2004,Aquatics,44
+2004,Archery,4
+2004,Athletics,46
+2004,Badminton,5
+2004,Baseball,1
+2004,Basketball,2
+2004,Basque Pelota,0
+2004,Boxing,11
+2004,Breaking,0
+2004,Canoeing,16
+2004,Cricket,0
+2004,Croquet,0
+2004,Cycling,18
+2004,Equestrian,6
+2004,Fencing,10
+2004,Field hockey,2
+2004,Flag football,0
+2004,Football,2
+2004,Golf,0
+2004,Gymnastics,18
+2004,Handball,2
+2004,Jeu de Paume,0
+2004,Judo,14
+2004,Karate,0
+2004,Lacrosse,0
+2004,Modern Pentathlon,2
+2004,Polo,0
+2004,Rackets,0
+2004,Roque,0
+2004,Rowing,14
+2004,Rugby,0
+2004,Sailing,11
+2004,Shooting,17
+2004,Skateboarding,0
+2004,Softball,1
+2004,Sport Climbing,0
+2004,Squash,0
+2004,Surfing,0
+2004,Table Tennis,4
+2004,Taekwondo,8
+2004,Tennis,4
+2004,Triathlon,2
+2004,Tug of War,0
+2004,Volleyball,4
+2004,Water Motorsports,0
+2004,Weightlifting,15
+2004,Wrestling,18
+2008,Aquatics,46
+2008,Archery,4
+2008,Athletics,47
+2008,Badminton,5
+2008,Baseball,1
+2008,Basketball,2
+2008,Basque Pelota,0
+2008,Boxing,11
+2008,Breaking,0
+2008,Canoeing,16
+2008,Cricket,0
+2008,Croquet,0
+2008,Cycling,18
+2008,Equestrian,6
+2008,Fencing,10
+2008,Field hockey,2
+2008,Flag football,0
+2008,Football,2
+2008,Golf,0
+2008,Gymnastics,18
+2008,Handball,2
+2008,Jeu de Paume,0
+2008,Judo,14
+2008,Karate,0
+2008,Lacrosse,0
+2008,Modern Pentathlon,2
+2008,Polo,0
+2008,Rackets,0
+2008,Roque,0
+2008,Rowing,14
+2008,Rugby,0
+2008,Sailing,11
+2008,Shooting,15
+2008,Skateboarding,0
+2008,Softball,1
+2008,Sport Climbing,0
+2008,Squash,0
+2008,Surfing,0
+2008,Table Tennis,4
+2008,Taekwondo,8
+2008,Tennis,4
+2008,Triathlon,2
+2008,Tug of War,0
+2008,Volleyball,4
+2008,Water Motorsports,0
+2008,Weightlifting,15
+2008,Wrestling,18
+2012,Aquatics,46
+2012,Archery,4
+2012,Athletics,47
+2012,Badminton,5
+2012,Baseball,0
+2012,Basketball,2
+2012,Basque Pelota,0
+2012,Boxing,13
+2012,Breaking,0
+2012,Canoeing,16
+2012,Cricket,0
+2012,Croquet,0
+2012,Cycling,18
+2012,Equestrian,6
+2012,Fencing,10
+2012,Field hockey,2
+2012,Flag football,0
+2012,Football,2
+2012,Golf,0
+2012,Gymnastics,18
+2012,Handball,2
+2012,Jeu de Paume,0
+2012,Judo,14
+2012,Karate,0
+2012,Lacrosse,0
+2012,Modern Pentathlon,2
+2012,Polo,0
+2012,Rackets,0
+2012,Roque,0
+2012,Rowing,14
+2012,Rugby,0
+2012,Sailing,10
+2012,Shooting,15
+2012,Skateboarding,0
+2012,Softball,0
+2012,Sport Climbing,0
+2012,Squash,0
+2012,Surfing,0
+2012,Table Tennis,4
+2012,Taekwondo,8
+2012,Tennis,5
+2012,Triathlon,2
+2012,Tug of War,0
+2012,Volleyball,4
+2012,Water Motorsports,0
+2012,Weightlifting,15
+2012,Wrestling,18
+2016,Aquatics,46
+2016,Archery,4
+2016,Athletics,47
+2016,Badminton,5
+2016,Baseball,0
+2016,Basketball,2
+2016,Basque Pelota,0
+2016,Boxing,13
+2016,Breaking,0
+2016,Canoeing,16
+2016,Cricket,0
+2016,Croquet,0
+2016,Cycling,18
+2016,Equestrian,6
+2016,Fencing,10
+2016,Field hockey,2
+2016,Flag football,0
+2016,Football,2
+2016,Golf,2
+2016,Gymnastics,18
+2016,Handball,2
+2016,Jeu de Paume,0
+2016,Judo,14
+2016,Karate,0
+2016,Lacrosse,0
+2016,Modern Pentathlon,2
+2016,Polo,0
+2016,Rackets,0
+2016,Roque,0
+2016,Rowing,14
+2016,Rugby,2
+2016,Sailing,10
+2016,Shooting,15
+2016,Skateboarding,0
+2016,Softball,0
+2016,Sport Climbing,0
+2016,Squash,0
+2016,Surfing,0
+2016,Table Tennis,4
+2016,Taekwondo,8
+2016,Tennis,5
+2016,Triathlon,2
+2016,Tug of War,0
+2016,Volleyball,4
+2016,Water Motorsports,0
+2016,Weightlifting,15
+2016,Wrestling,18
+2020,Aquatics,49
+2020,Archery,5
+2020,Athletics,48
+2020,Badminton,5
+2020,Baseball,1
+2020,Basketball,4
+2020,Basque Pelota,0
+2020,Boxing,13
+2020,Breaking,0
+2020,Canoeing,16
+2020,Cricket,0
+2020,Croquet,0
+2020,Cycling,22
+2020,Equestrian,6
+2020,Fencing,12
+2020,Field hockey,2
+2020,Flag football,0
+2020,Football,2
+2020,Golf,2
+2020,Gymnastics,18
+2020,Handball,2
+2020,Jeu de Paume,0
+2020,Judo,15
+2020,Karate,8
+2020,Lacrosse,0
+2020,Modern Pentathlon,2
+2020,Polo,0
+2020,Rackets,0
+2020,Roque,0
+2020,Rowing,14
+2020,Rugby,2
+2020,Sailing,10
+2020,Shooting,15
+2020,Skateboarding,4
+2020,Softball,1
+2020,Sport Climbing,2
+2020,Squash,0
+2020,Surfing,2
+2020,Table Tennis,5
+2020,Taekwondo,8
+2020,Tennis,5
+2020,Triathlon,3
+2020,Tug of War,0
+2020,Volleyball,4
+2020,Water Motorsports,0
+2020,Weightlifting,14
+2020,Wrestling,18
+2024,Aquatics,49
+2024,Archery,5
+2024,Athletics,48
+2024,Badminton,5
+2024,Baseball,0
+2024,Basketball,4
+2024,Basque Pelota,0
+2024,Boxing,13
+2024,Breaking,2
+2024,Canoeing,16
+2024,Cricket,0
+2024,Croquet,0
+2024,Cycling,22
+2024,Equestrian,6
+2024,Fencing,12
+2024,Field hockey,2
+2024,Flag football,0
+2024,Football,2
+2024,Golf,2
+2024,Gymnastics,18
+2024,Handball,2
+2024,Jeu de Paume,0
+2024,Judo,15
+2024,Karate,0
+2024,Lacrosse,0
+2024,Modern Pentathlon,2
+2024,Polo,0
+2024,Rackets,0
+2024,Roque,0
+2024,Rowing,14
+2024,Rugby,2
+2024,Sailing,10
+2024,Shooting,15
+2024,Skateboarding,4
+2024,Softball,0
+2024,Sport Climbing,4
+2024,Squash,0
+2024,Surfing,2
+2024,Table Tennis,5
+2024,Taekwondo,8
+2024,Tennis,5
+2024,Triathlon,3
+2024,Tug of War,0
+2024,Volleyball,4
+2024,Water Motorsports,0
+2024,Weightlifting,10
+2024,Wrestling,18
