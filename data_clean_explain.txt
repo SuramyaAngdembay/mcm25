@@ -1,0 +1,13 @@
+Cleaning summer atheletse
+
+Encoded 
+
+Dropped the city, didn't find useful, already have country
+
+Then replaced some countries name with others.
+
+Droped some years.
+
+Then made the object, saved as pickle for country and their code mapping
+
+
