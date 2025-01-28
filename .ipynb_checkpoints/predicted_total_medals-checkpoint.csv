@@ -1,0 +1,1206 @@
+NOC,Year,Total_Medal_Count,Predicted_Total_Medals
+Austria,1896,5,0.0
+Belarus,1896,0,0.0
+Belgium,1896,0,0.0
+Benin,1896,0,0.0
+Brazil,1896,0,1.01
+Canada,1896,0,0.0
+Cape Verde,1896,0,0.0
+Cayman Islands,1896,0,0.0
+Chad,1896,0,0.0
+Colombia,1896,0,0.0
+Croatia,1896,0,0.0
+Czech Republic,1896,0,0.0
+Dominica,1896,0,0.0
+Georgia,1896,0,0.0
+Ghana,1896,0,0.0
+Guam,1896,0,0.0
+Guinea,1896,0,0.04
+Independent Olympic Athletes,1896,0,0.23
+India,1896,0,2.9
+Ivory Coast,1896,0,0.0
+Kazakhstan,1896,0,0.0
+Kiribati,1896,0,0.0
+Kyrgyzstan,1896,0,0.0
+Liechtenstein,1896,0,0.0
+Lithuania,1896,0,0.0
+Luxembourg,1896,0,0.0
+Malaysia,1896,0,0.0
+Maldives,1896,0,0.0
+Mauritius,1896,0,0.0
+Mexico,1896,0,0.0
+Netherlands,1896,0,0.0
+Niger,1896,0,0.0
+Pakistan,1896,0,0.0
+Peru,1896,0,0.0
+Russia,1896,0,0.0
+Saint Kitts and Nevis,1896,0,0.0
+Sao Tome and Principe,1896,0,0.0
+Senegal,1896,0,0.0
+Sierra Leone,1896,0,0.0
+Singapore,1896,0,0.0
+Suriname,1896,0,0.0
+Swaziland,1896,0,0.0
+Togo,1896,0,0.0
+Trinidad And Tobago,1896,0,0.0
+Tunisia,1896,0,0.0
+Turkmenistan,1896,0,0.0
+Uganda,1896,0,0.0
+Zimbabwe,1896,0,3.1
+Afghanistan,1900,0,2.43
+Aruba,1900,0,3.38
+Botswana,1900,0,0.0
+Burundi,1900,0,0.0
+Cabo Verde,1900,0,0.0
+Cameroon,1900,0,0.0
+Cayman Islands,1900,0,0.0
+Colombia,1900,0,1.8
+Comoros,1900,0,3.79
+Cyprus,1900,0,0.0
+Denmark,1900,6,0.0
+Djibouti,1900,0,0.0
+East Germany,1900,0,0.0
+El Salvador,1900,0,0.0
+Federated States of Micronesia,1900,0,0.0
+Gabon,1900,0,0.0
+Guyana,1900,0,2.98
+India,1900,2,29.32
+Ivory Coast,1900,0,18.6
+Kazakhstan,1900,0,53.11
+Kiribati,1900,0,49.11
+Kosovo,1900,0,42.38
+Laos,1900,0,48.53
+Liberia,1900,0,1.1
+Madagascar,1900,0,17.14
+Mali,1900,0,2.53
+Malta,1900,0,0.62
+Mongolia,1900,0,2.12
+Myanmar,1900,0,4.3
+Netherlands,1900,5,6.04
+Nigeria,1900,0,0.0
+North Korea,1900,0,0.0
+Palestine,1900,0,0.0
+Paraguay,1900,0,0.0
+Russia,1900,0,2.84
+Saint Kitts and Nevis,1900,0,5.77
+Samoa,1900,0,11.47
+Serbia,1900,0,0.0
+Seychelles,1900,0,0.0
+Sri Lanka,1900,0,0.0
+Sweden,1900,1,2.77
+Syria,1900,0,1.38
+Tunisia,1900,0,0.0
+Turkey,1900,0,0.0
+Uzbekistan,1900,0,0.0
+Afghanistan,1904,0,1.0
+Australia,1904,4,0.0
+Azerbaijan,1904,0,0.0
+Barbados,1904,0,0.0
+Belgium,1904,0,0.0
+Benin,1904,0,0.0
+Bhutan,1904,0,0.0
+Bosnia and Herzegovina,1904,0,0.0
+British Virgin Islands,1904,0,0.0
+Brunei,1904,0,0.0
+Cayman Islands,1904,0,0.0
+Chinese Taipei,1904,0,0.0
+Comoros,1904,0,0.0
+Costa Rica,1904,0,0.0
+Croatia,1904,0,0.0
+Cyprus,1904,0,0.0
+Dominican Republic,1904,0,1.0
+East Germany,1904,0,0.0
+Germany,1904,15,0.0
+Greece,1904,2,0.0
+Grenada,1904,0,0.0
+Guatemala,1904,0,0.0
+Guinea,1904,0,0.0
+Guinea Bissau,1904,0,0.0
+Honduras,1904,0,0.0
+Hungary,1904,4,11.67
+Ireland,1904,0,0.92
+Jamaica,1904,0,6.84
+Kiribati,1904,0,3.33
+Lebanon,1904,0,3.39
+Liechtenstein,1904,0,2.85
+Madagascar,1904,0,5.82
+Malawi,1904,0,5.19
+North Yemen,1904,0,0.0
+Palau,1904,0,0.0
+Palestine,1904,0,0.0
+Paraguay,1904,0,0.0
+Rwanda,1904,0,0.0
+San Marino,1904,0,0.0
+Serbia,1904,0,0.0
+Serbia and Montenegro,1904,0,0.0
+Solomon Islands,1904,0,0.0
+South Korea,1904,0,0.0
+South Sudan,1904,0,0.0
+Thailand,1904,0,0.0
+Timor Leste,1904,0,0.0
+Turkmenistan,1904,0,0.0
+Uganda,1904,0,0.0
+United Arab Republic,1904,0,0.0
+Zambia,1904,0,0.0
+Zimbabwe,1904,0,0.0
+Andorra,1908,0,0.0
+Angola,1908,0,0.0
+Austria,1908,1,0.0
+Bahamas,1908,0,0.0
+Botswana,1908,0,0.0
+British Virgin Islands,1908,0,0.0
+Brunei,1908,0,0.0
+Bulgaria,1908,0,0.0
+Egypt,1908,0,0.0
+El Salvador,1908,0,0.0
+Hong Kong,1908,0,0.0
+Indonesia,1908,0,0.0
+Iraq,1908,0,0.0
+Kazakhstan,1908,0,0.0
+Kyrgyzstan,1908,0,0.0
+Liberia,1908,0,2.0
+Malawi,1908,0,0.26
+Malaysia,1908,0,0.0
+Marshall Islands,1908,0,2.85
+Mauritania,1908,0,1.43
+Mauritius,1908,0,2.0
+Namibia,1908,0,14.97
+Netherlands,1908,2,14.85
+Norway,1908,8,0.0
+Palestine,1908,0,0.0
+Paraguay,1908,0,0.0
+Puerto Rico,1908,0,0.0
+Rwanda,1908,0,0.0
+Saint Kitts and Nevis,1908,0,0.0
+Saint Lucia,1908,0,0.0
+San Marino,1908,0,0.0
+Sao Tome and Principe,1908,0,0.0
+Serbia,1908,0,0.0
+South Korea,1908,0,0.0
+South Sudan,1908,0,0.0
+South Yemen,1908,0,0.0
+Tajikistan,1908,0,0.0
+Turkmenistan,1908,0,0.0
+United Arab Emirates,1908,0,0.0
+United Kingdom,1908,146,0.0
+Uzbekistan,1908,0,8.55
+Zambia,1908,0,20.18
+American Samoa,1912,0,8.09
+Angola,1912,0,3.61
+Antigua and Barbuda,1912,0,4.76
+Argentina,1912,0,6.57
+Austria,1912,4,0.0
+Azerbaijan,1912,0,0.0
+Bahamas,1912,0,0.0
+Cyprus,1912,0,0.0
+Ethiopia,1912,0,1.0
+Georgia,1912,0,0.0
+Honduras,1912,0,0.0
+Hungary,1912,8,0.0
+Independent Olympic Athletes,1912,0,0.0
+Ivory Coast,1912,0,0.0
+Kosovo,1912,0,0.0
+Laos,1912,0,0.0
+Lithuania,1912,0,0.0
+Malawi,1912,0,0.0
+Malta,1912,0,0.0
+Mexico,1912,0,0.0
+Niger,1912,0,0.0
+Norway,1912,10,0.0
+Saudi Arabia,1912,0,7.38
+Slovakia,1912,0,3.25
+South Africa,1912,6,18.72
+Spain,1912,0,21.24
+Thailand,1912,0,0.0
+Timor Leste,1912,0,0.0
+United Team Of Germany,1912,0,0.0
+Uzbekistan,1912,0,0.0
+Albania,1920,0,0.0
+Belize,1920,0,0.0
+Bermuda,1920,0,0.0
+Bolivia,1920,0,0.0
+Bosnia and Herzegovina,1920,0,0.0
+Bulgaria,1920,0,0.0
+Cameroon,1920,0,0.0
+Canada,1920,9,0.0
+Chile,1920,0,0.0
+China,1920,0,0.0
+Comoros,1920,0,0.0
+Congo (Kinshasa),1920,0,0.0
+Costa Rica,1920,0,0.0
+Cote d'Ivoire,1920,0,0.0
+Cuba,1920,0,0.0
+Egypt,1920,0,0.0
+Equatorial Guinea,1920,0,0.0
+Guam,1920,0,0.0
+Guatemala,1920,0,0.0
+Guinea,1920,0,0.0
+Iraq,1920,0,1.0
+Israel,1920,0,0.0
+Japan,1920,2,1.38
+Kiribati,1920,0,0.0
+Kosovo,1920,0,0.0
+Kyrgyzstan,1920,0,1.0
+Lesotho,1920,0,2.83
+Libya,1920,0,0.68
+Maldives,1920,0,0.0
+Mali,1920,0,0.0
+Morocco,1920,0,0.0
+Myanmar,1920,0,0.0
+Niger,1920,0,52.44
+Nigeria,1920,0,80.49
+Portugal,1920,0,0.0
+Qatar,1920,0,1.0
+Serbia and Montenegro,1920,0,2.97
+Solomon Islands,1920,0,0.0
+South Africa,1920,10,0.0
+Spain,1920,2,0.0
+Sudan,1920,0,0.0
+Swaziland,1920,0,0.0
+Syria,1920,0,0.69
+Taiwan,1920,0,0.04
+Togo,1920,0,1.06
+Trinidad And Tobago,1920,0,3.41
+Turkey,1920,0,6.32
+United Arab Emirates,1920,0,0.0
+United States Virgin Islands,1920,0,0.0
+United Team Of Germany,1920,0,0.0
+Uruguay,1920,0,0.0
+Venezuela,1920,0,0.0
+Virgin Islands,1920,0,0.0
+Antigua and Barbuda,1924,0,0.0
+Aruba,1924,0,0.0
+Bangladesh,1924,0,0.0
+Belize,1924,0,0.0
+Benin,1924,0,0.0
+Bermuda,1924,0,0.0
+Bolivia,1924,0,0.0
+Botswana,1924,0,0.0
+Canada,1924,4,0.0
+Congo (Brazzaville),1924,0,0.0
+Cook Islands,1924,0,0.0
+Dominica,1924,0,0.0
+Estonia,1924,6,0.0
+Gambia,1924,0,0.0
+Guam,1924,0,0.0
+Kenya,1924,0,0.0
+Laos,1924,0,0.0
+Libya,1924,0,0.0
+Maldives,1924,0,0.0
+Mauritius,1924,0,0.97
+Mongolia,1924,0,0.0
+Morocco,1924,0,0.0
+Mozambique,1924,0,0.0
+Nepal,1924,0,0.0
+Nigeria,1924,0,0.0
+North Macedonia,1924,0,0.0
+Pakistan,1924,0,0.0
+Portugal,1924,1,0.0
+Puerto Rico,1924,0,0.0
+Samoa,1924,0,0.0
+San Marino,1924,0,0.0
+Senegal,1924,0,0.0
+Serbia and Montenegro,1924,0,0.0
+Slovenia,1924,0,0.0
+Spain,1924,0,2.02
+Sri Lanka,1924,0,4.85
+Swaziland,1924,0,8.99
+Timor Leste,1924,0,0.0
+Trinidad and Tobago,1924,0,0.0
+United States,1924,99,7.09
+Uzbekistan,1924,0,31.41
+Vietnam,1924,0,21.55
+Andorra,1928,0,0.0
+Angola,1928,0,0.0
+Aruba,1928,0,0.0
+Belarus,1928,0,0.0
+Belgium,1928,3,0.0
+Belize,1928,0,0.0
+Bolivia,1928,0,0.0
+Cameroon,1928,0,0.0
+Chad,1928,0,0.0
+Cote d'Ivoire,1928,0,0.0
+Cyprus,1928,0,7.53
+Djibouti,1928,0,10.79
+Georgia,1928,0,5.88
+Great Britain,1928,0,4.3
+Guinea Bissau,1928,0,6.11
+Iceland,1928,0,13.57
+Iraq,1928,0,0.0
+Israel,1928,0,0.0
+Italy,1928,19,0.0
+Kyrgyzstan,1928,0,0.0
+Laos,1928,0,0.0
+Lebanon,1928,0,0.0
+Liechtenstein,1928,0,0.0
+Luxembourg,1928,0,0.0
+Madagascar,1928,0,0.0
+Mauritius,1928,0,0.0
+Morocco,1928,0,0.0
+North North Macedonia,1928,0,0.0
+Norway,1928,4,0.0
+Paraguay,1928,0,0.0
+Portugal,1928,1,0.0
+Puerto Rico,1928,0,0.0
+Qatar,1928,0,0.0
+Saint Lucia,1928,0,0.0
+Sao Tome and Principe,1928,0,0.0
+Serbia,1928,0,0.0
+Serbia and Montenegro,1928,0,0.0
+Sierra Leone,1928,0,1.99
+Singapore,1928,0,1.82
+Slovenia,1928,0,4.71
+South Sudan,1928,0,0.0
+Spain,1928,1,0.0
+Thailand,1928,0,60.46
+Tunisia,1928,0,0.0
+Andorra,1932,0,0.0
+Angola,1932,0,0.0
+Argentina,1932,4,0.0
+Azerbaijan,1932,0,0.0
+Bahamas,1932,0,0.0
+Belize,1932,0,0.0
+Bulgaria,1932,0,1.25
+Cambodia,1932,0,0.0
+Chinese Taipei,1932,0,3.51
+Cote d'Ivoire,1932,0,0.0
+Cyprus,1932,0,0.0
+Denmark,1932,8,0.0
+Dominica,1932,0,0.0
+Ecuador,1932,0,0.0
+Estonia,1932,0,0.0
+Fiji,1932,0,0.0
+Finland,1932,25,0.0
+Gambia,1932,0,0.0
+Germany,1932,24,0.0
+Ghana,1932,0,0.0
+India,1932,1,0.0
+Kazakhstan,1932,0,0.0
+Kyrgyzstan,1932,0,0.0
+Luxembourg,1932,0,0.0
+Moldova,1932,0,0.0
+Mongolia,1932,0,0.0
+Montenegro,1932,0,0.0
+Nauru,1932,0,0.0
+Niger,1932,0,0.0
+Nigeria,1932,0,0.0
+North Korea,1932,0,3.0
+North North Macedonia,1932,0,5.06
+Palau,1932,0,0.0
+Palestine,1932,0,0.0
+Philippines,1932,3,0.0
+Poland,1932,9,0.0
+Portugal,1932,0,0.0
+Qatar,1932,0,0.04
+Senegal,1932,0,0.0
+Serbia,1932,0,0.0
+Sierra Leone,1932,0,0.0
+Sudan,1932,0,2.98
+Switzerland,1932,1,7.18
+Tajikistan,1932,0,5.9
+Tonga,1932,0,0.0
+Turkey,1932,0,0.0
+Tuvalu,1932,0,0.0
+Uganda,1932,0,0.0
+Yemen,1932,0,0.0
+Bahrain,1936,0,0.0
+Bangladesh,1936,0,0.0
+Belarus,1936,0,0.0
+Brunei,1936,0,0.0
+Bulgaria,1936,0,0.0
+Cabo Verde,1936,0,0.96
+Chile,1936,0,23.18
+Ecuador,1936,0,3.34
+Equatorial Guinea,1936,0,0.45
+Fiji,1936,0,14.6
+Gabon,1936,0,28.29
+Georgia,1936,0,18.96
+Germany,1936,101,29.29
+Guyana,1936,0,21.12
+Honduras,1936,0,28.47
+Iran,1936,0,37.35
+Jamaica,1936,0,0.0
+Japan,1936,20,0.0
+Jordan,1936,0,0.0
+Lebanon,1936,0,0.0
+Libya,1936,0,0.0
+Malaysia,1936,0,0.0
+Marshall Islands,1936,0,0.0
+Nepal,1936,0,0.0
+North North Macedonia,1936,0,0.0
+Panama,1936,0,0.0
+Saint Lucia,1936,0,0.0
+San Marino,1936,0,0.0
+Seychelles,1936,0,0.0
+Slovenia,1936,0,4.31
+Solomon Islands,1936,0,6.02
+Taiwan,1936,0,35.05
+Togo,1936,0,0.0
+Yemen,1936,0,0.0
+American Samoa,1948,0,1.0
+Bahamas,1948,0,0.0
+British Virgin Islands,1948,0,0.0
+Cabo Verde,1948,0,0.0
+Chile,1948,0,0.0
+Colombia,1948,0,0.0
+Denmark,1948,20,3.02
+East Germany,1948,0,0.0
+Estonia,1948,0,0.07
+Finland,1948,20,2.93
+Germany,1948,0,12.31
+Guam,1948,0,4.53
+Honduras,1948,0,0.0
+Indonesia,1948,0,0.0
+Iran,1948,1,0.0
+Jamaica,1948,3,0.0
+Japan,1948,0,0.0
+Jordan,1948,0,0.0
+Kiribati,1948,0,0.0
+Latvia,1948,0,1.01
+Mauritius,1948,0,0.0
+Mexico,1948,5,0.0
+Nauru,1948,0,0.0
+Norway,1948,7,0.0
+Palau,1948,0,0.0
+Paraguay,1948,0,0.0
+Saint Lucia,1948,0,0.0
+Saint Vincent and the Grenadines,1948,0,0.0
+Slovakia,1948,0,0.0
+Somalia,1948,0,0.0
+South Korea,1948,2,0.0
+South Yemen,1948,0,0.0
+Sweden,1948,44,0.0
+Tajikistan,1948,0,0.0
+Turkey,1948,12,0.0
+United States,1948,84,0.0
+United Team Of Germany,1948,0,0.0
+American Samoa,1952,0,0.0
+Bahrain,1952,0,0.0
+Belize,1952,0,0.0
+Bolivia,1952,0,0.0
+Botswana,1952,0,1.0
+Bulgaria,1952,1,0.0
+Cabo Verde,1952,0,0.0
+Colombia,1952,0,1.0
+Czech Republic,1952,0,0.0
+Equatorial Guinea,1952,0,0.0
+Eritrea,1952,0,0.0
+Germany,1952,24,0.0
+Ghana,1952,0,0.0
+Great Britain,1952,0,0.0
+Grenada,1952,0,0.0
+Guam,1952,0,0.0
+Ireland,1952,1,0.0
+Lebanon,1952,2,0.0
+Lesotho,1952,0,0.0
+Malawi,1952,0,0.0
+Malaysia,1952,0,0.0
+Malta,1952,0,1.0
+New Zealand,1952,3,21.83
+Nicaragua,1952,0,34.06
+North Korea,1952,0,21.78
+Senegal,1952,0,1.0
+Singapore,1952,0,0.0
+Slovenia,1952,0,0.0
+South Korea,1952,2,0.0
+Soviet Union,1952,0,0.0
+Sri Lanka,1952,0,0.0
+Syria,1952,0,0.0
+Trinidad and Tobago,1952,0,0.0
+United Team Of Germany,1952,0,0.0
+Afghanistan,1956,0,0.0
+Andorra,1956,0,0.96
+Austria,1956,2,0.06
+Brunei,1956,0,0.0
+Cambodia,1956,0,0.0
+Cameroon,1956,0,0.0
+Colombia,1956,0,0.0
+Cook Islands,1956,0,6.06
+Dominican Republic,1956,0,0.0
+East Germany,1956,0,0.0
+Equatorial Guinea,1956,0,0.0
+Estonia,1956,0,1.0
+Ethiopia,1956,0,6.48
+Germany,1956,0,0.02
+Grenada,1956,0,3.12
+Guinea,1956,0,10.09
+Guinea Bissau,1956,0,10.4
+Iceland,1956,1,0.0
+India,1956,1,0.0
+Kiribati,1956,0,0.0
+Maldives,1956,0,0.0
+Marshall Islands,1956,0,2.01
+Mauritania,1956,0,0.0
+Mongolia,1956,0,1.15
+Myanmar,1956,0,2.0
+New Zealand,1956,2,1.93
+Nigeria,1956,0,5.74
+North Korea,1956,0,2.19
+North Macedonia,1956,0,4.09
+Papua New Guinea,1956,0,0.0
+Puerto Rico,1956,0,0.0
+Saint Lucia,1956,0,0.0
+Saudi Arabia,1956,0,1.93
+South Korea,1956,2,20.81
+Soviet Union,1956,0,24.61
+Sudan,1956,0,36.19
+Suriname,1956,0,31.26
+Switzerland,1956,1,15.16
+Tajikistan,1956,0,20.8
+Thailand,1956,0,33.78
+Trinidad and Tobago,1956,0,32.72
+United Arab Republic,1956,0,0.0
+United Team Of Germany,1956,26,0.0
+Uzbekistan,1956,0,0.0
+Vietnam,1956,0,0.0
+Albania,1960,0,0.0
+Aruba,1960,0,0.4
+Australia,1960,22,0.55
+Belarus,1960,0,0.0
+Bhutan,1960,0,4.83
+Bosnia and Herzegovina,1960,0,0.18
+Cambodia,1960,0,5.25
+Canada,1960,1,6.34
+Cape Verde,1960,0,9.5
+Cayman Islands,1960,0,11.23
+Comoros,1960,0,0.0
+Costa Rica,1960,0,4.99
+Cuba,1960,0,6.59
+Equatorial Guinea,1960,0,22.26
+Estonia,1960,0,16.79
+Fiji,1960,0,32.17
+Ghana,1960,1,0.0
+Honduras,1960,0,0.0
+Independent Olympic Athletes,1960,0,0.0
+India,1960,1,0.0
+Iraq,1960,1,0.0
+Jordan,1960,0,2.01
+Libya,1960,0,0.0
+Maldives,1960,0,0.0
+Mali,1960,0,0.0
+Marshall Islands,1960,0,0.0
+Nepal,1960,0,0.0
+Niger,1960,0,0.0
+Palau,1960,0,0.78
+Palestine,1960,0,1.62
+Qatar,1960,0,12.26
+Russia,1960,0,10.12
+Samoa,1960,0,0.0
+Saudi Arabia,1960,0,0.0
+Sierra Leone,1960,0,0.0
+Sweden,1960,6,0.0
+Timor Leste,1960,0,0.0
+Trinidad and Tobago,1960,0,0.0
+Tunisia,1960,0,0.0
+Uruguay,1960,0,0.0
+Uzbekistan,1960,0,0.0
+Vanuatu,1960,0,0.0
+Austria,1964,0,0.0
+Bahamas,1964,1,0.0
+Benin,1964,0,0.0
+Bermuda,1964,0,1.0
+Bhutan,1964,0,0.0
+Brazil,1964,1,0.91
+Burundi,1964,0,0.0
+Cabo Verde,1964,0,0.0
+Central African Republic,1964,0,0.0
+China,1964,0,0.0
+Congo (Kinshasa),1964,0,0.0
+Cuba,1964,1,1.0
+Czech Republic,1964,0,2.96
+Georgia,1964,0,0.0
+Germany,1964,0,0.0
+Greece,1964,0,0.0
+Hong Kong,1964,0,0.0
+Iraq,1964,0,0.0
+Jordan,1964,0,0.0
+Kenya,1964,1,0.0
+Liberia,1964,0,1.33
+Malawi,1964,0,0.06
+Marshall Islands,1964,0,0.0
+Mauritania,1964,0,0.0
+Moldova,1964,0,0.0
+Monaco,1964,0,0.0
+Mozambique,1964,0,0.03
+Myanmar,1964,0,0.0
+Oman,1964,0,0.0
+Papua New Guinea,1964,0,0.0
+Paraguay,1964,0,0.0
+Portugal,1964,0,0.0
+Romania,1964,12,0.0
+Saint Kitts and Nevis,1964,0,0.0
+Saint Lucia,1964,0,0.0
+Slovakia,1964,0,0.0
+South Korea,1964,3,0.0
+Syria,1964,0,0.0
+Thailand,1964,0,0.0
+Tonga,1964,0,0.0
+Tunisia,1964,2,0.0
+Uganda,1964,0,0.0
+United States Virgin Islands,1964,0,0.0
+Algeria,1968,0,0.0
+American Samoa,1968,0,0.0
+Angola,1968,0,0.0
+Armenia,1968,0,0.0
+Aruba,1968,0,0.0
+British Virgin Islands,1968,0,0.0
+Brunei,1968,0,0.0
+Bulgaria,1968,9,0.0
+Cabo Verde,1968,0,0.0
+Cayman Islands,1968,0,0.0
+Central African Republic,1968,0,0.0
+Equatorial Guinea,1968,0,0.0
+Fiji,1968,0,0.99
+Gambia,1968,0,5.12
+Georgia,1968,0,4.18
+Germany,1968,0,1.86
+Guinea,1968,0,1.0
+Guyana,1968,0,0.0
+Ivory Coast,1968,0,0.0
+Japan,1968,25,0.0
+Kiribati,1968,0,0.0
+Lebanon,1968,0,0.0
+Lesotho,1968,0,0.0
+Madagascar,1968,0,0.0
+Maldives,1968,0,0.0
+Moldova,1968,0,0.0
+Romania,1968,15,0.0
+Saint Vincent and the Grenadines,1968,0,0.0
+Saudi Arabia,1968,0,0.0
+Serbia,1968,0,0.0
+Singapore,1968,0,0.0
+Sweden,1968,4,0.0
+Taiwan,1968,1,0.0
+Uzbekistan,1968,0,0.0
+Vanuatu,1968,0,1.0
+Virgin Islands,1968,0,0.1
+Zambia,1968,0,2.02
+Antigua and Barbuda,1972,0,0.0
+Belize,1972,0,0.0
+Bulgaria,1972,21,0.0
+Dominican Republic,1972,0,0.0
+Egypt,1972,0,0.0
+Georgia,1972,0,0.0
+Germany,1972,0,0.0
+Ivory Coast,1972,0,0.0
+Jamaica,1972,1,0.0
+Japan,1972,29,0.0
+Kuwait,1972,0,0.0
+Lesotho,1972,0,0.0
+Luxembourg,1972,0,0.0
+Malaysia,1972,0,0.0
+Maldives,1972,0,0.0
+Mali,1972,0,0.0
+Moldova,1972,0,0.0
+Myanmar,1972,0,0.0
+Netherlands,1972,5,0.0
+New Zealand,1972,3,0.0
+Samoa,1972,0,0.0
+Saudi Arabia,1972,0,0.0
+Seychelles,1972,0,0.0
+Suriname,1972,0,0.0
+Tajikistan,1972,0,3.13
+Togo,1972,0,4.75
+Tuvalu,1972,0,5.36
+United Arab Emirates,1972,0,7.78
+Vanuatu,1972,0,0.0
+Venezuela,1972,0,0.0
+Virgin Islands,1972,0,0.0
+Yemen,1972,0,0.0
+Afghanistan,1976,0,0.0
+Albania,1976,0,0.0
+American Samoa,1976,0,0.0
+Armenia,1976,0,0.0
+Azerbaijan,1976,0,1.99
+Bangladesh,1976,0,0.0
+Belgium,1976,6,3.88
+Canada,1976,11,0.0
+Cape Verde,1976,0,0.0
+Colombia,1976,0,0.0
+Cook Islands,1976,0,0.0
+Dominica,1976,0,0.0
+Fiji,1976,0,4.14
+Germany,1976,0,0.96
+Grenada,1976,0,3.77
+Haiti,1976,0,0.0
+Iceland,1976,0,0.0
+Independent Olympic Athletes,1976,0,0.0
+Indonesia,1976,0,0.0
+Iran,1976,2,0.0
+Kuwait,1976,0,0.0
+Macedonia,1976,0,0.0
+Montenegro,1976,0,2.89
+Mozambique,1976,0,1.91
+Netherlands,1976,5,1.08
+North Yemen,1976,0,0.0
+Norway,1976,2,0.0
+Palestine,1976,0,0.0
+Panama,1976,0,0.0
+Saint Kitts and Nevis,1976,0,1.01
+Saint Lucia,1976,0,0.0
+Saint Vincent and the Grenadines,1976,0,0.0
+Saudi Arabia,1976,0,0.0
+Singapore,1976,0,0.0
+Solomon Islands,1976,0,0.0
+South Yemen,1976,0,0.0
+Switzerland,1976,4,0.0
+Turkey,1976,0,0.0
+Turkmenistan,1976,0,0.0
+Virgin Islands,1976,0,0.0
+Zimbabwe,1976,0,0.37
+American Samoa,1980,0,0.0
+Austria,1980,4,0.0
+Botswana,1980,0,0.0
+Burkina Faso,1980,0,0.0
+Colombia,1980,0,0.0
+Comoros,1980,0,0.0
+Cuba,1980,20,0.0
+Denmark,1980,5,0.0
+Eritrea,1980,0,0.0
+Ethiopia,1980,4,0.0
+Grenada,1980,0,8.11
+Guinea Bissau,1980,0,6.83
+Guyana,1980,1,6.28
+Hungary,1980,32,10.34
+Independent Olympic Athletes,1980,0,16.6
+Italy,1980,15,34.49
+Kazakhstan,1980,0,0.0
+Kosovo,1980,0,0.98
+Macedonia,1980,0,8.64
+Madagascar,1980,0,16.29
+Malaysia,1980,0,7.38
+Morocco,1980,0,0.0
+Nigeria,1980,0,0.0
+North Macedonia,1980,0,0.0
+North North Macedonia,1980,0,0.0
+Palau,1980,0,0.0
+Romania,1980,25,0.0
+Russia,1980,0,0.0
+Rwanda,1980,0,0.0
+Saint Lucia,1980,0,0.0
+Serbia And Montenegro,1980,0,0.0
+Slovakia,1980,0,0.0
+Taiwan,1980,0,0.0
+Tanzania,1980,2,0.0
+Togo,1980,0,0.0
+United States Virgin Islands,1980,0,0.97
+Uzbekistan,1980,0,0.38
+Algeria,1984,2,0.0
+Andorra,1984,0,0.0
+Angola,1984,0,0.0
+Antigua and Barbuda,1984,0,0.0
+Armenia,1984,0,0.0
+Austria,1984,3,4.41
+Bahrain,1984,0,7.43
+Bhutan,1984,0,5.03
+Brunei,1984,0,0.0
+Cambodia,1984,0,0.0
+Cape Verde,1984,0,0.0
+Cook Islands,1984,0,0.0
+Costa Rica,1984,0,0.0
+Croatia,1984,0,0.0
+Cuba,1984,0,0.0
+El Salvador,1984,0,0.0
+Estonia,1984,0,0.0
+Ethiopia,1984,0,0.0
+Federated States of Micronesia,1984,0,0.0
+Fiji,1984,0,0.0
+Greece,1984,2,0.0
+Grenada,1984,0,0.0
+Guinea,1984,0,0.0
+Italy,1984,32,0.0
+Ivory Coast,1984,1,0.0
+Jordan,1984,0,0.0
+Kyrgyzstan,1984,0,0.0
+Malawi,1984,0,9.03
+Maldives,1984,0,11.42
+Marshall Islands,1984,0,4.68
+Morocco,1984,2,3.14
+Nepal,1984,0,7.22
+Niger,1984,0,4.67
+Nigeria,1984,2,3.68
+North Macedonia,1984,0,8.38
+Palau,1984,0,0.0
+Philippines,1984,0,0.0
+Romania,1984,53,0.0
+Saint Kitts and Nevis,1984,0,0.0
+Serbia,1984,0,0.0
+South Africa,1984,0,0.0
+Soviet Union,1984,0,0.0
+Spain,1984,5,1.0
+Sri Lanka,1984,0,1.99
+Switzerland,1984,8,0.02
+Tanzania,1984,0,0.07
+Tonga,1984,0,0.0
+Trinidad and Tobago,1984,0,0.0
+Tunisia,1984,0,1.0
+Aruba,1988,0,0.0
+Bahrain,1988,0,0.0
+Bhutan,1988,0,0.0
+British Virgin Islands,1988,0,0.0
+Bulgaria,1988,35,0.0
+Cape Verde,1988,0,0.0
+Colombia,1988,1,0.0
+Estonia,1988,0,0.0
+Greece,1988,1,0.0
+Guinea,1988,0,0.0
+Independent Olympic Athletes,1988,0,0.0
+Japan,1988,14,0.0
+Kosovo,1988,0,0.0
+Liechtenstein,1988,0,0.0
+North North Macedonia,1988,0,0.0
+Palestine,1988,0,1.0
+Peru,1988,1,0.0
+Puerto Rico,1988,0,0.0
+Sao Tome and Principe,1988,0,1.0
+Saudi Arabia,1988,0,2.84
+Serbia And Montenegro,1988,0,0.0
+Somalia,1988,0,0.0
+South Korea,1988,33,1.0
+Sudan,1988,0,1.0
+Turkey,1988,2,18.83
+United Arab Republic,1988,0,10.11
+Angola,1992,0,0.05
+Armenia,1992,0,1.02
+Azerbaijan,1992,0,0.0
+Belgium,1992,3,0.83
+Bermuda,1992,0,2.58
+Bolivia,1992,0,1.47
+Cayman Islands,1992,0,1.0
+China,1992,54,0.0
+Comoros,1992,0,1.0
+Congo (Brazzaville),1992,0,0.0
+Egypt,1992,0,0.0
+Finland,1992,5,0.0
+Hong Kong,1992,0,3.44
+Indonesia,1992,5,0.0
+Iraq,1992,0,0.0
+Ivory Coast,1992,0,1.0
+Jordan,1992,0,9.88
+Kazakhstan,1992,0,10.73
+Kyrgyzstan,1992,0,27.16
+Latvia,1992,3,21.45
+Macedonia,1992,0,5.0
+Namibia,1992,2,0.0
+Netherlands,1992,15,0.0
+Nicaragua,1992,0,0.0
+Niger,1992,0,0.0
+Papua New Guinea,1992,0,0.0
+Philippines,1992,1,0.0
+Puerto Rico,1992,1,0.0
+Romania,1992,18,0.0
+Russia,1992,0,0.0
+Samoa,1992,0,0.0
+Serbia And Montenegro,1992,0,0.0
+Soviet Union,1992,0,0.0
+Sudan,1992,0,0.0
+Suriname,1992,1,0.0
+Thailand,1992,1,0.0
+Tonga,1992,0,0.0
+Trinidad And Tobago,1992,0,0.0
+Tunisia,1992,0,0.0
+Tuvalu,1992,0,0.0
+United States,1992,108,0.0
+Uzbekistan,1992,0,0.0
+Vanuatu,1992,0,0.0
+Vietnam,1992,0,0.0
+Algeria,1996,3,0.0
+Benin,1996,0,0.0
+British Virgin Islands,1996,0,0.0
+Burundi,1996,1,0.0
+Canada,1996,22,0.0
+Colombia,1996,0,0.0
+France,1996,37,1.0
+Grenada,1996,0,0.0
+Guam,1996,0,0.0
+Guyana,1996,0,0.0
+Hong Kong,1996,1,0.0
+Luxembourg,1996,0,0.0
+Moldova,1996,2,0.0
+Monaco,1996,0,0.0
+Niger,1996,0,0.0
+Peru,1996,0,0.0
+Philippines,1996,1,0.0
+Poland,1996,17,0.0
+Russia,1996,0,1.0
+Serbia and Montenegro,1996,0,0.0
+Timor Leste,1996,0,0.0
+Tunisia,1996,1,0.0
+Turkey,1996,6,0.0
+United Arab Emirates,1996,0,0.0
+United Arab Republic,1996,0,0.0
+United States Virgin Islands,1996,0,0.0
+Uruguay,1996,0,0.0
+Angola,2000,0,0.0
+Argentina,2000,4,0.0
+Aruba,2000,0,0.0
+Azerbaijan,2000,3,0.0
+Bahamas,2000,3,0.0
+Barbados,2000,1,0.0
+Burkina Faso,2000,0,0.0
+Canada,2000,14,0.0
+Central African Republic,2000,0,0.0
+Czech Republic,2000,8,0.0
+Dominica,2000,0,0.0
+East Germany,2000,0,0.0
+Estonia,2000,3,0.0
+Gabon,2000,0,0.0
+Gambia,2000,0,0.0
+Georgia,2000,6,0.0
+Ghana,2000,0,0.0
+Guinea,2000,0,0.0
+Iceland,2000,1,0.0
+Japan,2000,18,0.0
+Laos,2000,0,0.0
+Lesotho,2000,0,0.0
+Lithuania,2000,5,0.0
+Mali,2000,0,0.0
+Niger,2000,0,0.0
+Norway,2000,10,0.0
+Panama,2000,0,0.98
+Samoa,2000,0,0.0
+Saudi Arabia,2000,2,0.0
+Serbia And Montenegro,2000,3,0.0
+Slovenia,2000,2,5.05
+South Africa,2000,5,1.82
+Zambia,2000,0,0.0
+Afghanistan,2004,0,0.0
+Australia,2004,50,0.0
+Bahamas,2004,2,0.0
+Bahrain,2004,0,0.0
+Bermuda,2004,0,0.0
+Burkina Faso,2004,0,0.0
+Cambodia,2004,0,0.0
+Canada,2004,12,0.0
+China,2004,63,0.0
+Colombia,2004,2,0.0
+Cyprus,2004,0,5.56
+Fiji,2004,0,0.0
+Gabon,2004,0,4.53
+Guyana,2004,0,0.0
+Haiti,2004,0,0.0
+Iran,2004,6,0.47
+Ivory Coast,2004,0,0.95
+Kazakhstan,2004,8,31.33
+Kenya,2004,7,30.8
+Liechtenstein,2004,0,0.0
+Malaysia,2004,0,0.0
+Nepal,2004,0,0.0
+North Korea,2004,5,0.0
+North Macedonia,2004,0,0.0
+Poland,2004,10,0.0
+Qatar,2004,0,0.0
+Romania,2004,19,0.0
+Solomon Islands,2004,0,0.0
+Spain,2004,20,0.0
+Sri Lanka,2004,0,0.0
+Trinidad and Tobago,2004,0,0.0
+Tunisia,2004,0,0.0
+Turkey,2004,10,2.0
+United Arab Emirates,2004,1,1.0
+United States,2004,101,1.21
+Uzbekistan,2004,5,2.02
+Venezuela,2004,2,6.29
+Vietnam,2004,0,4.91
+Virgin Islands,2004,0,23.41
+Austria,2008,3,0.0
+Bhutan,2008,0,0.0
+Bosnia and Herzegovina,2008,0,0.0
+Botswana,2008,0,0.0
+Brazil,2008,17,0.0
+Burundi,2008,0,0.0
+Cambodia,2008,0,0.0
+Cameroon,2008,1,0.0
+Central African Republic,2008,0,0.0
+Cote d'Ivoire,2008,0,0.0
+East Germany,2008,0,0.0
+Egypt,2008,2,1.0
+El Salvador,2008,0,0.0
+Georgia,2008,7,0.0
+Germany,2008,41,0.0
+Guatemala,2008,0,0.0
+Iceland,2008,1,0.07
+Indonesia,2008,6,0.0
+Japan,2008,25,0.0
+Kiribati,2008,0,0.0
+Kyrgyzstan,2008,3,0.0
+Luxembourg,2008,0,0.0
+Madagascar,2008,0,0.0
+Mali,2008,0,0.0
+New Zealand,2008,9,22.64
+Pakistan,2008,0,10.87
+Palau,2008,0,10.39
+Philippines,2008,0,10.85
+Qatar,2008,0,1.16
+Serbia And Montenegro,2008,0,2.85
+South Sudan,2008,0,6.65
+Soviet Union,2008,0,9.53
+Taiwan,2008,0,0.0
+Thailand,2008,6,0.0
+Timor Leste,2008,0,0.0
+Tunisia,2008,1,0.0
+United Team Of Germany,2008,0,1.0
+American Samoa,2012,0,0.0
+Argentina,2012,4,1.0
+Belgium,2012,3,0.0
+Belize,2012,0,0.0
+Botswana,2012,1,0.0
+Cayman Islands,2012,0,0.0
+Chile,2012,0,0.0
+Chinese Taipei,2012,2,0.0
+Colombia,2012,9,0.0
+Comoros,2012,0,0.0
+El Salvador,2012,0,0.0
+Fiji,2012,0,0.0
+Finland,2012,3,0.0
+Germany,2012,44,0.0
+Great Britain,2012,0,0.0
+Guam,2012,0,0.0
+India,2012,6,0.0
+Iran,2012,13,0.0
+Iraq,2012,0,0.0
+Jamaica,2012,13,0.0
+Kiribati,2012,0,1.0
+Macedonia,2012,0,0.0
+Moldova,2012,0,0.0
+Mongolia,2012,5,0.0
+Myanmar,2012,0,0.0
+Namibia,2012,0,0.0
+Nauru,2012,0,0.0
+Nicaragua,2012,0,0.0
+Niger,2012,0,0.0
+San Marino,2012,0,0.0
+Sao Tome and Principe,2012,0,1.0
+South Sudan,2012,0,0.0
+Tuvalu,2012,0,0.0
+Vanuatu,2012,0,2.94
+Zambia,2012,0,0.0
+Algeria,2016,2,1.16
+Antigua and Barbuda,2016,0,1.18
+Argentina,2016,4,0.29
+Bahamas,2016,2,0.0
+Belgium,2016,6,0.0
+Brazil,2016,19,0.0
+Bulgaria,2016,3,0.0
+Cape Verde,2016,0,0.0
+Cayman Islands,2016,0,0.0
+Congo (Brazzaville),2016,0,0.0
+Cote d'Ivoire,2016,0,0.0
+Cyprus,2016,0,0.0
+Djibouti,2016,0,1.24
+East Germany,2016,0,0.0
+Egypt,2016,3,0.0
+Eritrea,2016,0,0.0
+Estonia,2016,1,1.0
+Federated States of Micronesia,2016,0,2.86
+Georgia,2016,7,0.0
+Indonesia,2016,3,4.67
+Ivory Coast,2016,2,8.32
+Laos,2016,0,0.0
+Liberia,2016,0,0.0
+Mali,2016,0,0.0
+Mauritania,2016,0,0.0
+Monaco,2016,0,1.0
+Nauru,2016,0,0.0
+Niger,2016,1,0.0
+North Macedonia,2016,0,0.0
+Norway,2016,4,0.0
+Puerto Rico,2016,1,0.0
+Saint Kitts and Nevis,2016,0,0.0
+Saint Vincent and the Grenadines,2016,0,0.0
+Serbia,2016,8,0.0
+Serbia and Montenegro,2016,0,0.0
+South Sudan,2016,0,0.0
+Sri Lanka,2016,0,0.0
+Taiwan,2016,0,0.0
+Tajikistan,2016,1,0.0
+Algeria,2020,0,0.0
+American Samoa,2020,0,0.0
+Andorra,2020,0,0.0
+Angola,2020,0,0.0
+Antigua and Barbuda,2020,0,0.0
+Bahrain,2020,1,0.0
+Belize,2020,0,0.0
+Bhutan,2020,0,0.0
+Bosnia and Herzegovina,2020,0,0.0
+Canada,2020,24,0.0
+Cape Verde,2020,0,0.0
+China,2020,89,0.0
+Chinese Taipei,2020,12,0.0
+Cuba,2020,15,0.0
+Cyprus,2020,0,0.0
+Czech Republic,2020,11,0.0
+Ecuador,2020,3,70.9
+Equatorial Guinea,2020,0,31.99
+Ethiopia,2020,4,12.24
+Fiji,2020,2,12.76
+Great Britain,2020,0,32.82
+Greece,2020,4,28.35
+Guatemala,2020,0,19.65
+Guyana,2020,0,53.2
+Italy,2020,40,64.25
+Lithuania,2020,1,108.8
+Malta,2020,0,0.0
+Mauritania,2020,0,0.0
+Morocco,2020,1,0.0
+Namibia,2020,1,0.0
+Nepal,2020,0,0.0
+Paraguay,2020,0,0.0
+Saudi Arabia,2020,1,0.0
+Serbia and Montenegro,2020,0,0.0
+Somalia,2020,0,0.0
+Sri Lanka,2020,0,1.9
+Sudan,2020,0,1.99
+Tajikistan,2020,0,0.0
+Timor Leste,2020,0,0.0
+Trinidad And Tobago,2020,0,0.0
+Tunisia,2020,2,0.0
+United Kingdom,2020,64,0.0
+United States,2020,113,0.0
+Uzbekistan,2020,5,0.0
+Venezuela,2020,4,0.0
+Andorra,2024,0,0.0
+Angola,2024,0,2.0
+Argentina,2024,3,5.31
+Armenia,2024,4,3.99
+Aruba,2024,0,3.04
+Barbados,2024,0,0.0
+Belarus,2024,0,0.0
+Bolivia,2024,0,0.0
+British Virgin Islands,2024,0,0.0
+Bulgaria,2024,7,0.0
+Burkina Faso,2024,0,0.0
+Cameroon,2024,0,0.0
+Cape Verde,2024,0,0.0
+China,2024,91,0.0
+Cuba,2024,9,0.0
+Cyprus,2024,1,0.0
+East Germany,2024,0,1.0
+El Salvador,2024,0,1.0
+Equatorial Guinea,2024,0,2.76
+Fiji,2024,1,2.0
+Finland,2024,0,1.06
+Gambia,2024,0,3.9
+Guinea,2024,0,0.0
+Guinea Bissau,2024,0,0.0
+Haiti,2024,0,0.0
+Honduras,2024,0,0.0
+Independent Olympic Athletes,2024,0,0.0
+Jamaica,2024,6,0.0
+Malta,2024,0,0.0
+Moldova,2024,4,0.0
+Niger,2024,0,0.0
+North Korea,2024,6,0.0
+North Yemen,2024,0,0.0
+Palau,2024,0,0.0
+Philippines,2024,4,0.0
+Romania,2024,9,0.0
+Seychelles,2024,0,0.0
+Somalia,2024,0,0.0
+Sudan,2024,0,0.0
+Suriname,2024,0,0.0
+Swaziland,2024,0,0.0
+Turkmenistan,2024,0,0.0
+Tuvalu,2024,0,0.0
+Uzbekistan,2024,13,0.0
+Zambia,2024,1,0.0

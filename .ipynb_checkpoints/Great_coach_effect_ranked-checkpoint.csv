@@ -1,0 +1,11 @@
+NOC,Sport_Event,num_athletes,num_gold,num_silver,num_bronze,coach_benefit_score
+GER,Football - Women,20,0,0,20,40
+MAR,Football - Men,19,0,0,19,38
+ARG,Hockey - Women,16,0,0,16,32
+IND,Hockey - Men,16,0,0,16,32
+ESP,Handball - Men,16,0,0,15,30
+DEN,Handball - Women,17,0,0,15,30
+USA,Volleyball - Men,13,0,0,13,26
+RSA,Rugby Sevens - Men,13,0,0,13,26
+NED,Water Polo - Women,13,0,0,13,26
+BRA,Volleyball - Women,13,0,0,13,26

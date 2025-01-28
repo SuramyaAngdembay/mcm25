@@ -1,0 +1,11 @@
+NOC,Sport,Sex,num_athletes,num_gold,num_silver,num_bronze,coach_benefit_score
+CHN,Swimming,F,18,0,4,21,46
+GER,Football,F,20,0,0,20,40
+MAR,Football,M,19,0,0,19,38
+GBR,Athletics,F,34,1,7,14,35
+GBR,Athletics,M,34,0,2,16,34
+ARG,Hockey,F,16,0,0,16,32
+IND,Hockey,M,16,0,0,16,32
+ESP,Handball,M,16,0,0,15,30
+DEN,Handball,F,17,0,0,15,30
+AUS,Swimming,M,21,1,8,10,28
