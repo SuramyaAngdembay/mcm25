@@ -1,3 +1,15 @@
-## Refer to the MCM_final_report.pdf for detailed analysis about this project
+# 2028 Olympic medal prediction for mcm2025 
 
-# Blog post by COMAP about our team's unique experience in mcm: https://www.comap.org/blog/item/first-time-mcm-team
+Modeling for 2028 olympic medal prediction without using socio-economic factors of the countries.
+
+## 📖 Documentation
+
+**Refer to the [MCM_final_report.pdf](MCM_final_report.pdf) for detailed analysis about this project**
+
+## 🏆 Team Recognition
+
+**Featured in COMAP's blog:** [First-Time MCM Team's Unique Experience](https://www.comap.org/blog/item/first-time-mcm-team)
+
+---
+
+*For more details about our mathematical modeling approach and competition experience, please see the documents above.*
