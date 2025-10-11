@@ -4,7 +4,7 @@ Modeling for 2028 olympic medal prediction without using socio-economic factors 
 
 ## 📖 Documentation
 
-**Refer to the [MCM Final Report.pdf](MCM_final_report.pdf) for detailed analysis about this project**
+**Refer to the [MCM Final Report.pdf](MCM final report.pdf) for detailed analysis about this project**
 
 ## 🏆 Team Recognition
 
